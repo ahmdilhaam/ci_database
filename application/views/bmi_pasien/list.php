@@ -1,6 +1,6 @@
 <div class="container pt-2">
     <div class="col-md-12">
-    <h3>Daftar Pasien <a href="<?=base_url()?>" class="btn btn-primary">Daftar Pasien</a></h3>
+    <h3>Daftar BMI Pasien <a href="<?=base_url()?>" class="btn btn-primary">Daftar Pasien</a></h3>
     <table class="table table-bordered">
         <thead>
             <tr>
